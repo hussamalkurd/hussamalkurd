@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hussam Kurd
+# Hi 👋, I'm Hussam Al Kurd
 
 ### 🚀 Full Stack Developer | Mobile Developer | Shopify Integrator  
 🌍 Based in Egypt | Working on projects across Palestine and beyond
