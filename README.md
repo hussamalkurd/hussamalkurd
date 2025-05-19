@@ -32,13 +32,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hussamkurd&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hussamkurd)](https://git.io/streak-stats)
-
----
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussam-kurd-5083b812b/)
